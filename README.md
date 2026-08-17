@@ -46,12 +46,8 @@ coffee-shop-landing-page/
 
 ## Screenshots
 
-_Add screenshots of the site here once deployed, e.g.:_
-
-```
 ![Hero section](./assets/images/screenshot-hero.png)
 ![Menu section](./assets/images/screenshot-menu.png)
-```
 
 ## How to Run Locally
 
