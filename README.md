@@ -8,7 +8,7 @@ project in my portfolio as a PPLG (Software and Game Development)
 student, made to practice building a modern, responsive business
 landing page with plain HTML, CSS, and JavaScript — no frameworks.
 
-🔗 **Live Demo:** [Live Demo](YOUR-LIVE-DEMO-LINK)
+🔗 **Live Demo:** [Live Demo](https://glkrynwan.github.io/coffee-shop-landing-page/)
 
 > This is a fictional brand created for educational and portfolio
 > purposes — not a real business.
